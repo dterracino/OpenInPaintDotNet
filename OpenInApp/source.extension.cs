@@ -7,12 +7,12 @@ namespace OpenInApp
 {
     static class Vsix
     {
-        public const string Id = "$gregt$ - guid";
-        public const string Name = "Open in $gregt$";
-        public const string Description = @"Open a file in $gregt$ directly from Solution Explorer within Visual Studio.";
+        public const string Id = "1F26AAE5-DA33-4D31-A5EB-AA424D745321";
+        public const string Name = "Open in Paint.NET";
+        public const string Description = @"Open a file in Paint.NET directly from Solution Explorer within Visual Studio.";
         public const string Language = "en-US";
         public const string Version = "1.0.0";
         public const string Author = "GregTrevellick";
-        public const string Tags = "open, open in, $gregt$";
+        public const string Tags = "open, open in, Paint.NET, Paint, PaintDotNet";
     }
 }

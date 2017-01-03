@@ -11,7 +11,7 @@
         <Parent guid="guidSHLMainMenu" id="IDG_VS_CTXT_FOLDER_EXPLORE" />
         <Icon guid="guidImages" id="bmpPic1" />
         <Strings>
-          <ButtonText>Open in $gregt$</ButtonText>
+          <ButtonText>Open in Paint.NET</ButtonText>
         </Strings>
       </Button>
     </Buttons>
@@ -35,13 +35,13 @@
    
   <Symbols>
         <!-- This is the package guid. -->    
-    <GuidSymbol name="guidOpenInAppPackage" value="{111117A9-1607-40E1-81B5-28D1454C1111}" /><!--$gregt$-->
+    <GuidSymbol name="guidOpenInAppPackage" value="{123D2A90-F17C-4563-97E1-659F2CB16C7C}" />
 
-    <GuidSymbol name="guidOpenInVsCmdSet" value="{222217A9-1607-40E1-81B5-28D1454C2222}"><!--$gregt$-->
+    <GuidSymbol name="guidOpenInVsCmdSet" value="{16DED3D5-00B3-4444-A8CC-536FE62CEFC9}">
       <IDSymbol name="OpenInApp" value="0x0100" />
     </GuidSymbol>
 
-    <GuidSymbol name="guidImages" value="{333317A9-1607-40E1-81B5-28D1454C3333}" ><!--$gregt$-->
+    <GuidSymbol name="guidImages" value="{11FDDE54-27FA-469F-8E59-92D457DC9E02}" >
       <IDSymbol name="bmpPic1" value="1" />
     </GuidSymbol>
   </Symbols>

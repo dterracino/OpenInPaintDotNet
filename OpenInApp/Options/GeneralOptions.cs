@@ -13,13 +13,11 @@ namespace OpenInApp.Options
         [Description(CommonConstants.ActualPathToExeOptionDetailedDescription)]
         public string ActualPathToExe { get; set; }
 
-        //$gregt$ - optional
         [Category(CommonConstants.CategorySubLevel)]
         [DisplayName(CommonConstants.TypicalFileExtensionsOptionLabel)]
         [Description(CommonConstants.TypicalFileExtensionsOptionDetailedDescription)]
         public string TypicalFileExtensions { get; set; } = GetTypicalFileExtensions();
 
-        //$gregt$ - optional
         [Category(CommonConstants.CategorySubLevel)]
         [DisplayName(CommonConstants.SuppressTypicalFileExtensionsWarningOptionLabel)]
         [Description(CommonConstants.SuppressTypicalFileExtensionsWarningDetailedDescription)]
