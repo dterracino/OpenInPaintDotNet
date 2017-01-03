@@ -78,10 +78,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="%24gregt%24 Solution Items\CHANGELOG.md" />
-    <None Include="%24gregt%24 Solution Items\CONTRIBUTING.md" />
-    <None Include="%24gregt%24 Solution Items\ISSUE_TEMPLATE.md" />
-    <None Include="%24gregt%24 Solution Items\README%24gregt%24.md" />
     <None Include="Key.snk" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
@@ -217,7 +213,6 @@
     </VSCTCompile>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="%24gregt%24 Solution Items\LICENSE.txt" />
     <Content Include="..\LICENSE.txt">
       <Link>LICENSE.txt</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
