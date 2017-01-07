@@ -74,3 +74,5 @@ Also adapted from code originally written by [Calvin Allen](https://github.com/C
 Additional thanks goes to [Build 2016 Conference](https://channel9.msdn.com/Events/Build/2016/B886) and [Visual Studio Toolbox](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Extensions-by-Mads-Kristensen).
 
 Thanks also to [$ThirdPartyAppName$][ThirdPartyAppHomePage] themselves.
+
+[gregt](http://forums.getpaint.net/index.php?/topic/30182-radial-fade/)
