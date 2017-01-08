@@ -21,7 +21,7 @@ Download this extension from the [VS Marketplace][VSMarketplaceUrl].
 
 <!--COPY START FOR VS GALLERY-->
 
-A Visual Studio extension to open a file in [$ThirdPartyAppName$][ThirdPartyAppHomePage] directly from within Visual Studio.
+A [Visual Studio](https://www.visualstudio.com/) extension to open a file in [paint.net][ThirdPartyAppHomePage] directly from within [Visual Studio](https://www.visualstudio.com/).
 
 [![][ThirdPartyAppOfficialLogo]][ThirdPartyAppHomePage]
 
@@ -43,13 +43,17 @@ Similar "Open In" VS extensions can be found [here](https://marketplace.visualst
 
 - Works with VS2012, VS2013, VS2015 and VS2017.
 
-- Open *multiple* files simultaneously with [$ThirdPartyAppName$][ThirdPartyAppHomePage] directly from within Solution Explorer.
+- Open *multiple* files simultaneously with [paint.net][ThirdPartyAppHomePage] directly from within Solution Explorer.
 
 - Warning if attempting to open a large quantity of files. The quantity is configurable in Tools | Options.
 
-- Warning if attempting to open one or more file types whose extension is not typically associated with [$ThirdPartyAppName$][ThirdPartyAppHomePage]. The list of typical file extensions is configurable in Tools | Options.
+![](OpenInApp/Resources/ReadMeScreenShot_WarningLargeQuantity.png)
 
-- Option to supress the warning message if attempting to open a file whose extension is not typically associated with [$ThirdPartyAppName$][ThirdPartyAppHomePage].
+- Warning if attempting to open one or more file types whose extension is not typically associated with [paint.net][ThirdPartyAppHomePage]. The list of typical file extensions is configurable in Tools | Options.
+
+![](OpenInApp/Resources/ReadMeScreenShot_WarningNonTypical.png)
+
+- Option to supress the warning message if attempting to open a file whose extension is not typically associated with [paint.net][ThirdPartyAppHomePage].
 
 ## Options
 
@@ -67,15 +71,15 @@ Contributions to this project are welcome by raising an [Issue][GitHubRepoIssues
 
 ## Legal
 
-The [owner](https://github.com/GregTrevellick) of this [GitHub repository / software][GitHubRepoURL] is not affiliated, associated, authorized, endorsed by, employed by, sponsored by, or in any way officially connected with [$ThirdPartyAppName$][ThirdPartyAppHomePage] or any of its subsidiaries or its affiliates.
+The [owner](https://github.com/GregTrevellick) of this [GitHub repository / software][GitHubRepoURL] is not affiliated, associated, authorized, endorsed by, employed by, sponsored by, or in any way officially connected with [paint.net][ThirdPartyAppHomePage] or any of its subsidiaries or its affiliates.
 
-Nor has [this][GitHubRepoURL] software been authorised, approved, verified or in anyway assessed by [$ThirdPartyAppName$][ThirdPartyAppHomePage], or any of its subsidiaries or its affiliates, either as [raw source code][GitHubRepoURL] on [GitHub.com](https://github.com/) or as a [Visual Studio Extension][VSMarketplaceUrl] in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/vs).
+Nor has [this][GitHubRepoURL] software been authorised, approved, verified or in anyway assessed by [paint.net][ThirdPartyAppHomePage], or any of its subsidiaries or its affiliates, either as [raw source code][GitHubRepoURL] on [GitHub.com](https://github.com/) or as a [Visual Studio Extension][VSMarketplaceUrl] in the [Visual Studio Marketplace](https://marketplace.visualstudio.com/vs).
 
-All Trademark, intellectual property rights, and other rights belonging to [$ThirdPartyAppName$][ThirdPartyAppHomePage] as described in [here][ThirdPartyAppHomePage] and [here][ThirdPartyAppHomePage] apply.
+All Trademark, intellectual property rights, and other rights belonging to [paint.net][ThirdPartyAppHomePage] as described in [here][ThirdPartyAppHomePage] apply.
 
-All $ThirdPartyAppName$ logos and $ThirdPartyAppName$ links belong to [$ThirdPartyAppName$][ThirdPartyAppHomePage] and their use here and any associated goodwill inures to [$ThirdPartyAppName$][ThirdPartyAppHomePage] as described [here][ThirdPartyAppHomePage].
+All [paint.net][ThirdPartyAppHomePage] logos and [paint.net][ThirdPartyAppHomePage] links belong to [paint.net][ThirdPartyAppHomePage] and their use here and any associated goodwill inures to [paint.net][ThirdPartyAppHomePage].
 
-In no event shall [$ThirdPartyAppName$][ThirdPartyAppHomePage] be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or dealings in the software.
+In no event shall [paint.net][ThirdPartyAppHomePage] be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or dealings in the software.
 
 ## Credits
 
@@ -85,6 +89,6 @@ Also adapted from code originally written by [Calvin Allen](https://github.com/C
 
 Additional thanks goes to [Build 2016 Conference](https://channel9.msdn.com/Events/Build/2016/B886) and [Visual Studio Toolbox](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Extensions-by-Mads-Kristensen).
 
-Thanks also to [$ThirdPartyAppName$][ThirdPartyAppHomePage] themselves.
+Thanks also to [paint.net][ThirdPartyAppHomePage] themselves.
 
-[gregt](http://forums.getpaint.net/index.php?/topic/30182-radial-fade/)
+Additional thanks to [Rei](http://forums.getpaint.net/index.php?/topic/30182-radial-fade/) for transparent [paint.net][ThirdPartyAppHomePage] logo.
