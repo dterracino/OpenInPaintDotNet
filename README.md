@@ -1,5 +1,5 @@
 [AppVeyorProjectUrl]: https://ci.appveyor.com/project/GregTrevellick/openinpaintdotnet
-[AppVeyorProjectBuildStatusBadgeSvg]: https://ci.appveyor.com/api/projects/status/33e93co68kooud5r?svg=true
+[AppVeyorProjectBuildStatusBadgeSvg]: https://ci.appveyor.com/api/projects/status/1m2yhxf7dajm3f53?svg=true
 [GitHubRepoURL]: https://github.com/GregTrevellick/OpenInPaintDotNet
 [GitHubRepoIssuesURL]: https://github.com/GregTrevellick/OpenInPaintDotNet/issues
 [GitHubRepoPullRequestsURL]: https://github.com/GregTrevellick/OpenInPaintDotNet/pulls
