@@ -11,7 +11,7 @@ namespace OpenInApp
         public const string Name = "Open in Paint.NET";
         public const string Description = @"Open a file in Paint.NET directly from Solution Explorer within Visual Studio.";
         public const string Language = "en-US";
-        public const string Version = "1.0.2";
+        public const string Version = "1.0.27";
         public const string Author = "GregTrevellick";
         public const string Tags = "open, open in, Paint.NET, Paint, PaintDotNet";
     }
