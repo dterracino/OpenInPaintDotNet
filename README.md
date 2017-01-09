@@ -13,7 +13,7 @@
 
 [![Licence](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
 [![Build status][AppVeyorProjectBuildStatusBadgeSvg]][AppVeyorProjectUrl]
-[][VersionNumberBadgeURL]
+[![][VersionNumberBadgeURL]][VSMarketplaceUrl]
 
 Download this extension from the [VS Marketplace][VSMarketplaceUrl].
 
@@ -43,7 +43,7 @@ Similar "Open In" VS extensions can be found [here](https://marketplace.visualst
 
 ![](OpenInApp/Resources/ReadMeScreenShot_ContextMenu.png)
 
-- Works with VS2012, VS2013, VS2015 and VS2017.
+- Works with VS2012, VS2013 and VS2015.
 
 - Open *multiple* files simultaneously with [paint.net][ThirdPartyAppHomePage] directly from within Solution Explorer.
 
