@@ -6,8 +6,8 @@
 [ThirdPartyAppHomePage]: http://www.getpaint.net/
 [ThirdPartyAppOfficialLogo]: http://www.getpaint.net/images/Logo4.png
 [VersionNumberBadgeURL]: https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInPaintDotNet.svg
-[VSMarketplaceUrl]: https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInPaintDotNet
-[VSMarketplaceReviewsUrl]: https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpenInPaintDotNet#review-details
+[VSMarketplaceUrl]: https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninPaintNET
+[VSMarketplaceReviewsUrl]: https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninPaintNET#review-details
 
 # Open In Paint.Net
 
