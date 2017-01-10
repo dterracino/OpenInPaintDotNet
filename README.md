@@ -17,8 +17,6 @@
 
 Download this extension from the [VS Marketplace][VSMarketplaceUrl].
 
-[![](chart.png)][VSMarketplaceUrl]
-
 ---------------------------------------
 
 <!--COPY START FOR VS GALLERY-->
@@ -94,3 +92,5 @@ Additional thanks goes to [Build 2016 Conference](https://channel9.msdn.com/Even
 Thanks also to [paint.net][ThirdPartyAppHomePage] themselves.
 
 Additional thanks to [Rei](http://forums.getpaint.net/index.php?/topic/30182-radial-fade/) for transparent [paint.net][ThirdPartyAppHomePage] logo.
+
+[![](chart.png)][VSMarketplaceUrl]
