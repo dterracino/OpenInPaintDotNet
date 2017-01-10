@@ -7,7 +7,7 @@ using System;
 using System.ComponentModel.Design;
 using System.Linq;
 
-namespace OpenInApp
+namespace OpenInApp.Commands
 {
     internal sealed class OpenInAppCommand 
     {
@@ -16,7 +16,7 @@ namespace OpenInApp
         public static OpenInAppCommand Instance { get; private set; }
 
         private readonly Package _package;
-        private IServiceProvider ServiceProvider { get { return _package; } }
+        private IServiceProvider ServiceProvider => _package;
 
         public static void Initialize(Package package)
         {
@@ -29,7 +29,7 @@ namespace OpenInApp
 
             if (package == null)
             {
-                Logger.Log(new ArgumentNullException("package"));
+                Logger.Log(new ArgumentNullException(nameof(package)));
                 OpenInAppHelper.ShowUnexpectedError(Caption);
             }
             else
