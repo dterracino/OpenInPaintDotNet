@@ -21,7 +21,7 @@ Download this extension from the [VS Marketplace][VSMarketplaceUrl].
 
 <!--COPY START FOR VS GALLERY-->
 
-A [Visual Studio](https://www.visualstudio.com/) extension to open a file in [paint.net][ThirdPartyAppHomePage] directly from within [Visual Studio](https://www.visualstudio.com/).
+Open *multiple* files simultaneously with [paint.net][ThirdPartyAppHomePage] directly from within Solution Explorer.
 
 [![][ThirdPartyAppOfficialLogo]][ThirdPartyAppHomePage]
 
@@ -42,8 +42,6 @@ Similar "Open In" VS extensions can be found [here](https://marketplace.visualst
 ![](OpenInApp/Resources/ReadMeScreenShot_ContextMenu.png)
 
 - Works with VS2012, VS2013 and VS2015.
-
-- Open *multiple* files simultaneously with [paint.net][ThirdPartyAppHomePage] directly from within Solution Explorer.
 
 - Warning if attempting to open a large quantity of files. The quantity is configurable in Tools | Options.
 
