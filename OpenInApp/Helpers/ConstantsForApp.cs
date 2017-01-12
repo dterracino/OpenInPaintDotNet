@@ -5,9 +5,9 @@ namespace OpenInApp.Helpers
 {
     public static class ConstantsForApp 
     {
-        public const string AppFolderName = "Paint.NET";//"Altova", "Paint.NET"
-        public const string AppSubFolderName = null;//null in most cases, "XMLSpy"
-        public const string ExecutableFileToBrowseFor = "PaintDotNet.exe";//"XmlSpy.exe", "PaintDotNet.exe"
+        public const string AppFolderName = "Paint.NET";
+        public const string AppSubFolderName = null;
+        public const string ExecutableFileToBrowseFor = "PaintDotNet.exe";
         public static IEnumerable<string> GetDefaultTypicalFileExtensions()
         {
             return new List<string>
