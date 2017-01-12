@@ -21,7 +21,7 @@ Download this extension from the [VS Marketplace][VSMarketplaceUrl].
 
 <!--COPY START FOR VS GALLERY-->
 
-Open *multiple* files simultaneously with [paint.net][ThirdPartyAppHomePage] directly from within Solution Explorer.
+Open multiple files simultaneously in [paint.net][ThirdPartyAppHomePage] directly from within Solution Explorer.
 
 [![][ThirdPartyAppOfficialLogo]][ThirdPartyAppHomePage]
 
