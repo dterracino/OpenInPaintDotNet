@@ -6,6 +6,7 @@
 [ThirdPartyAppHomePage]: http://www.getpaint.net/
 [ThirdPartyAppOfficialLogo]: http://www.getpaint.net/images/Logo4.png
 [VersionNumberBadgeURL]: https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpeninPaintNET.svg
+[VisualStudioURL]: https://www.visualstudio.com/
 [VSMarketplaceUrl]: https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninPaintNET
 [VSMarketplaceReviewsUrl]: https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninPaintNET#review-details
 
@@ -21,21 +22,13 @@ Download this extension from the [VS Marketplace][VSMarketplaceUrl].
 
 <!--COPY START FOR VS GALLERY-->
 
-Open multiple files simultaneously in [paint.net][ThirdPartyAppHomePage] directly from Solution Explorer.
+Open multiple files simultaneously in [paint.net][ThirdPartyAppHomePage] directly from [Visual Studio's][VisualStudioURL] Solution Explorer.
 
 [![][ThirdPartyAppOfficialLogo]][ThirdPartyAppHomePage]
 
-If you like this *free* extension, please give it a [review][VSMarketplaceReviewsUrl].
+If you like this ***free*** extension, please give it a [review][VSMarketplaceReviewsUrl].
 
 See the [change log](CHANGELOG.md) for road map and release history. Bugs can be logged [here][GitHubRepoIssuesURL].
-
-## Who Is This Extension For ?
-
-Whilst the Visual Studio IDE has an outstanding and feature-rich editor for a wide range of file types, even in the free "Community" editions, there may be times when you wish to open a file in a different application. Examples include application/editor familiarity, gigantic file handling, or even the desire to not override the default VS editor. 
-
-In these scenarios, and many more, this extension may be of use to you.
-
-Similar "Open In" VS extensions can be found [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VS&sortBy=Relevance).
 
 ## Features
 
@@ -54,6 +47,18 @@ Similar "Open In" VS extensions can be found [here](https://marketplace.visualst
 - Option to supress the warning message if attempting to open a file whose extension is not typically associated with [paint.net][ThirdPartyAppHomePage].
 
   ![](OpenInApp/Resources/ReadMeScreenShot_OptionsGeneral.png)
+
+## Use Cases
+
+The [Visual Studio IDE][VisualStudioURL] has an outstanding and feature-rich editor for a wide range of file types, even in the free "Community" editions, which can be overridden to open a third-party application.
+
+That said, there may be times when you wish to edit a file in an alternative editor/application without overriding the default [Visual Studio][VisualStudioURL] editor, for example:-
+
+- You only occasionally wish to use a specific alternative editor.
+- You have overriden the default [Visual Studio][VisualStudioURL] editor to a particular application, but need easy IDE access to a second particular editor.
+- Certain files (e.g. gigantic size files, or files with complex content) may be better suited in an alternative editor.
+- Pair programming scenarios where each developer has different preferred editor.
+- You are more familiar with a certain editor's features, or simply have a favourite editor.
 
 <!--COPY END FOR VS GALLERY-->
 
@@ -90,3 +95,5 @@ Thanks also to [paint.net][ThirdPartyAppHomePage] themselves.
 Additional thanks to [Rei](http://forums.getpaint.net/index.php?/topic/30182-radial-fade/) for transparent [paint.net][ThirdPartyAppHomePage] logo.
 
 [![](chart.png)][VSMarketplaceUrl]
+
+Similar "Open In" VS extensions can be found [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VS&sortBy=Relevance).
