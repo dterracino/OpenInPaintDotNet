@@ -12,3 +12,5 @@ These are the changes to each version that has been released on the official Vis
 
 - [ ] Support for additional VS versions
    - [ ] Publish the extension for VS2017
+
+   gregt
