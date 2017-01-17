@@ -1,5 +1,6 @@
 [AppVeyorProjectUrl]: https://ci.appveyor.com/project/GregTrevellick/openinpaintdotnet
 [AppVeyorProjectBuildStatusBadgeSvg]: https://ci.appveyor.com/api/projects/status/1m2yhxf7dajm3f53?svg=true
+[GitHubPagesURL]: https://gregtrevellick.github.io/OpenInPaintDotNet/
 [GitHubRepoURL]: https://github.com/GregTrevellick/OpenInPaintDotNet
 [GitHubRepoIssuesURL]: https://github.com/GregTrevellick/OpenInPaintDotNet/issues
 [GitHubRepoPullRequestsURL]: https://github.com/GregTrevellick/OpenInPaintDotNet/pulls
@@ -16,7 +17,7 @@
 [![Build status][AppVeyorProjectBuildStatusBadgeSvg]][AppVeyorProjectUrl]
 [![][VersionNumberBadgeURL]][VSMarketplaceUrl]
 
-Download this extension from the [VS Marketplace][VSMarketplaceUrl].
+This [Visual Studio][VisualStudioURL] extension is officially available at the [Visual Studio Marketplace][VSMarketplaceUrl].
 
 ---------------------------------------
 
@@ -24,11 +25,9 @@ Download this extension from the [VS Marketplace][VSMarketplaceUrl].
 
 Open multiple files simultaneously in [paint.net][ThirdPartyAppHomePage] directly from [Visual Studio's][VisualStudioURL] Solution Explorer.
 
-[![][ThirdPartyAppOfficialLogo]][ThirdPartyAppHomePage]
-
 If you like this ***free*** extension, please give it a [review][VSMarketplaceReviewsUrl].
 
-See the [change log](CHANGELOG.md) for road map and release history. Bugs can be logged [here][GitHubRepoIssuesURL].
+[![][ThirdPartyAppOfficialLogo]][ThirdPartyAppHomePage]
 
 ## Features
 
@@ -36,11 +35,11 @@ See the [change log](CHANGELOG.md) for road map and release history. Bugs can be
 
   ![](OpenInApp/Resources/ReadMeScreenShot_ContextMenu.png)
 
-- Warning if attempting to open a large quantity of files. The quantity is configurable in Tools | Options.
+- Warning if attempting to open a large quantity of files. The quantity is configurable in Tools > Options.
 
   ![](OpenInApp/Resources/ReadMeScreenShot_WarningLargeQuantity.png)
 
-- Warning if attempting to open one or more file types whose extension is not typically associated with [paint.net][ThirdPartyAppHomePage]. The list of typical file extensions is configurable in Tools | Options.
+- Warning if attempting to open one or more file types whose extension is not typically associated with [paint.net][ThirdPartyAppHomePage]. The list of typical file extensions is configurable in Tools > Options.
 
   ![](OpenInApp/Resources/ReadMeScreenShot_WarningNonTypical.png)
 
@@ -94,6 +93,16 @@ Thanks also to [paint.net][ThirdPartyAppHomePage] themselves.
 
 Additional thanks to [Rei](http://forums.getpaint.net/index.php?/topic/30182-radial-fade/) for transparent [paint.net][ThirdPartyAppHomePage] logo.
 
-[![](chart.png)][VSMarketplaceUrl]
+## Miscellaneous
+
+Contributions to this project are welcome by raising an [Issue][GitHubRepoIssuesURL] or submitting a [Pull Request][GitHubRepoPullRequestsURL].
+
+See the [change log](CHANGELOG.md) for road map and release history.
+
+Bugs can be logged [here][GitHubRepoIssuesURL].
+
+Software [Licence](/LICENSE.txt).
+
+[![](chart.png)][GitHubPagesURL]
 
 Similar "Open In" VS extensions can be found [here](https://marketplace.visualstudio.com/search?term=trevellick&target=VS&sortBy=Relevance).
