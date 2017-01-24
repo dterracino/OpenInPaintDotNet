@@ -1,11 +1,10 @@
 ﻿using Microsoft.VisualStudio.Shell;
-using OpenInApp.Commands;
 using OpenInApp.Common.Helpers;
-using OpenInApp.Helpers;
+using OpenInAppPaintDotNet.Helpers;
 using System.ComponentModel;
 using System.Windows.Forms;
 
-namespace OpenInApp.Options
+namespace OpenInAppPaintDotNet.Options.PaintDotNet
 {
     public class GeneralOptions : DialogPage
     {
@@ -19,7 +18,7 @@ namespace OpenInApp.Options
         [Category(CommonConstants.CategorySubLevel)]
         [DisplayName(CommonConstants.TypicalFileExtensionsOptionLabel)]
         [Description(CommonConstants.TypicalFileExtensionsOptionDetailedDescription)]
-        public string TypicalFileExtensions //{ get; set; } = GetTypicalFileExtensions();
+        public string TypicalFileExtensions 
         {
             get
             {

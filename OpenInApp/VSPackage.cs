@@ -1,12 +1,12 @@
 ﻿using Microsoft.VisualStudio.Shell;
-using OpenInApp.Commands;
 using OpenInApp.Common.Helpers;
-using OpenInApp.Options;
+using OpenInAppPaintDotNet.Commands;
+using OpenInAppPaintDotNet.Options.PaintDotNet;
 using System;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.InteropServices;
 
-namespace OpenInApp
+namespace OpenInAppPaintDotNet
 {
     [PackageRegistration(UseManagedResourcesOnly = true)]
     [InstalledProductRegistration(productName: "#110", productDetails: "#112", productId: Vsix.Version, IconResourceID = 400)]

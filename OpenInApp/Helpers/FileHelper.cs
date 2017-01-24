@@ -1,8 +1,9 @@
-﻿using OpenInApp.Commands;
+﻿using OpenInAppPaintDotNet.Commands;
 using OpenInApp.Common.Helpers;
 using System.Windows.Forms;
+using OpenInAppPaintDotNet;
 
-namespace OpenInApp.Helpers
+namespace OpenInAppPaintDotNet.Helpers
 {
     public class FileHelper
     {
