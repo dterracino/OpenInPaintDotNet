@@ -5,7 +5,7 @@
 [GitHubRepoIssuesURL]: https://github.com/GregTrevellick/OpenInPaintDotNet/issues
 [GitHubRepoPullRequestsURL]: https://github.com/GregTrevellick/OpenInPaintDotNet/pulls
 [ThirdPartyAppHomePage]: http://www.getpaint.net/
-[ThirdPartyAppOfficialLogo]: http://www.getpaint.net/images/Logo4.png
+[ThirdPartyAppOfficialLogo]: ThirdPartyLogo.png <!--http://www.getpaint.net/images/Logo4.png-->
 [VersionNumberBadgeURL]: https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpeninPaintNET.svg
 [VisualStudioURL]: https://www.visualstudio.com/
 [VSMarketplaceUrl]: https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninPaintNET
