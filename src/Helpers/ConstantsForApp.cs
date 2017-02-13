@@ -28,7 +28,7 @@ namespace OpenInAppPaintDotNet.Helpers
         }
 
 
-
+        internal static string Caption = Vsix.Name + " " + Vsix.Version;
         internal const string CommonActualPathToExeOptionLabel = CommonConstants.ActualPathToExeOptionLabelPrefix + ExecutableFileToBrowseFor;
     }
 }
